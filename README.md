@@ -6,10 +6,6 @@
 
 ---
 
-![NFT Dashboard Preview]([https://brando4152.github.io/NFT-Dashboard-Demo/preview.png](https://brando4152.github.io/NFT-Dashboard-Demo/))
-
----
-
 ## Features
 
 - **Feed** — Live market overview with top collections, top sales, trending NFTs, news feed, upcoming mints, and top buyers/sellers
