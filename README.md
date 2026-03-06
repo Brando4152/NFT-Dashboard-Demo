@@ -6,7 +6,7 @@
 
 ---
 
-[NFT Dashboard Preview]([https://brando4152.github.io/NFT-Dashboard-Demo/preview.png](https://brando4152.github.io/NFT-Dashboard-Demo/))
+![NFT Dashboard Preview]([https://brando4152.github.io/NFT-Dashboard-Demo/preview.png](https://brando4152.github.io/NFT-Dashboard-Demo/))
 
 ---
 
